@@ -1,5 +1,7 @@
 # Netflix SQL Data Analysis Project
 
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+
 ## Overview
 
 This project analyzes Netflix movies and TV shows using PostgreSQL. I completed this project as part of my SQL learning journey, using a guided YouTube project as the foundation and then writing, testing, debugging, and understanding the queries myself.
